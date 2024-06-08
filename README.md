@@ -1,2 +1,5 @@
 # Stochastic-Optimization-Model-Monto-Carlo-SAA
 Utilizing Python for Stochastic Model Optimization: A Monte Carlo Simulation Approach
+In this project, Python was employed as the primary tool for solving a complex stochastic optimization model. The model, which utilized Monte Carlo Simulation and Sample Average Approximation (SAA), presented a challenge due to the considerable number of replications involved in the solving process. By opting for Python over Cplex, the focus was on leveraging the language's versatility and efficiency in handling the extensive computational requirements of the model. This decision not only facilitated smoother execution but also allowed for greater flexibility in implementing and refining the optimization algorithm. The resulting solution demonstrates the effectiveness of Python in tackling intricate stochastic models, offering insights into its suitability for addressing real-world optimization problems.
+
+![SAA](https://github.com/DonyaRazinejad/Stochastic-Optimization-Model-Monto-Carlo-SAA/assets/162476525/73a9f2b2-cbde-48b0-aba0-82789a0bf41d)
